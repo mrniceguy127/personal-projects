@@ -1,0 +1,12 @@
+[submodule "mandelbrot-gen"]
+	path = mandelbrot-gen
+	url = https://github.com/mrniceguy127/mandelbrot-gen
+[submodule "machina"]
+	path = machina
+	url = https://github.com/mrniceguy127/machina
+[submodule "osu-wine-install-script"]
+	path = osu-wine-install-script
+	url = https://github.com/mrniceguy127/osu-wine-install-script
+[submodule "16-bit-cpu"]
+	path = 16-bit-cpu
+	url = https://github.com/mrniceguy127/16-bit-cpu.git

@@ -10,3 +10,6 @@
 [submodule "16-bit-cpu"]
 	path = 16-bit-cpu
 	url = https://github.com/mrniceguy127/16-bit-cpu.git
+[submodule "nes-emu"]
+	path = nes-emu
+	url = https://github.com/mrniceguy127/nes-emu.git

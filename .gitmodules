@@ -13,3 +13,6 @@
 [submodule "nes-emu"]
 	path = nes-emu
 	url = https://github.com/mrniceguy127/nes-emu.git
+[submodule "castlevania-iii-password-save-gen-c-sharp"]
+	path = castlevania-iii-password-save-gen-c-sharp
+	url = https://github.com/mrniceguy127/castlevania-iii-password-save-gen-c-sharp
